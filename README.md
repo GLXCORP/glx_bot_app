@@ -3,7 +3,7 @@
 
 GLX Bot Applikasi untuk menjalankan bot / userbot dari berbagai platform
 
-<img width="100%" alt="GLX BOT APP Banner" src="/screenshots/banner.png">
+<img width="100%" alt="GLX BOT APP Banner" src="https://github.com/azkadev/glx_bot_app/assets/82513502/6b0a89a6-9cb1-45f5-bc2b-310b2ce12e7d">
   
 ## Download
 
