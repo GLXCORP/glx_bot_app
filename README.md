@@ -20,7 +20,7 @@ GLX Bot Applikasi untuk menjalankan bot / userbot dari berbagai platform
   
 3. [MACOS]()
   
-4. [Linux]()
+4. [Linux](https://github.com/GLXCORP/glx_bot_app/releases/download/beta/glx_bot-linux.deb)
 
 5. [Windows]()
   
