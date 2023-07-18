@@ -1,31 +1,30 @@
-# GLX BOT APP
+## GLX BOT APP [![GitHub stars](https://img.shields.io/github/stars/glxcorp/glx_bot_app?style=social)](https://github.com/login?return_to=%2Fglxcorp%glx_bot_app) ![GitHub forks](https://img.shields.io/github/forks/glxcorp/glx_bot_app?style=social) 
+
 
 GLX Bot Applikasi untuk menjalankan bot / userbot dari berbagai platform
 
+<img width="100%" alt="GLX BOT APP Banner" src="/screenshots/banner.png">
+  
 ## Download
 
-1. Android
+<a href="https://play.google.com/store/apps/details?id=com"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
 
-   - [Play  Store]()
-      
+1. ANDROID
+ 
    - [BETA](https://github.com/azkadev/glx_bot_app/releases/download/beta/glx-bot-app-android.apk)
   
 2. IOS
-   
-   - [APP Store]()
+
    - [BETA]()
   
 3. MACOS
 
-   - [APP Store]()
    - [BETA]()
   
-4. Linux
-   - [APP Store]()
+4. Linux 
    - [BETA]()
 
 5. Windows
-   - [App Store]()
    - [BETA]()
 
 ## Screenshot
