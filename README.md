@@ -7,9 +7,17 @@ GLX Bot Applikasi untuk menjalankan bot / userbot dari berbagai platform
   
 ## Download
 
+| PLATFORM / OS |                                        STABLE VERSION                                        |                                                                                      BETA VERSION | APP CENTER |
+|:-------------:|:--------------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------------------:|:----------:|
+|    ANDROID    | ![](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png) | [DOWNLOAD](https://github.com/azkadev/glx_bot_app/releases/download/beta/glx-bot-app-android.apk) |            |
+|      IOS      |                                                                                              |                                                                                                   |            |
+|     LINUX     |                                                                                              |       [DOWNLOAD](https://github.com/GLXCORP/glx_bot_app/releases/download/beta/glx_bot-linux.deb) |            |
+|     MACOS     |                                                                                              |                                                                                                   |            |
+|    WINDOWS    |                                                                                              |                                                                                                   |            |
+
 - Stable Version
 
-<a href="https://play.google.com/store/apps/details?id=com"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
+<a href="https://play.google.com/store/apps/details?id=com"><img src="https://user-images.githubusercontent.com/8056274/126906876-acd3784c-c984-40e0-a7f5-6d2a8194d294.png" width="200"></img></a><a href="https://play.google.com/store/apps/details?id=com"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
 
 
 - BETA Version
