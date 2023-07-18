@@ -20,7 +20,7 @@ GLX Bot Applikasi untuk menjalankan bot / userbot dari berbagai platform
 ## Screenshot
 
 
-|       SIGN IN PAGE        |            SIGN UP PAGE            |                 HOME PAGE |           Telegram Page            |
+|       SIGN IN PAGE        |            SIGN UP PAGE            |                 HOME PAGE |             GUIDE PAGE             |
 |:-------------------------:|:----------------------------------:|--------------------------:|:----------------------------------:|
 | ![](screenshots/home.png) | ![](screenshots/home_telegram.png) | ![](screenshots/home.png) | ![](screenshots/home_telegram.png) |
 
