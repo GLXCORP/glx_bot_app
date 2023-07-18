@@ -7,26 +7,23 @@ GLX Bot Applikasi untuk menjalankan bot / userbot dari berbagai platform
   
 ## Download
 
+- Stable Version
+
 <a href="https://play.google.com/store/apps/details?id=com"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
 
-1. ANDROID
- 
-   - [BETA](https://github.com/azkadev/glx_bot_app/releases/download/beta/glx-bot-app-android.apk)
+
+- BETA Version
+
+1. [ANDROID](https://github.com/azkadev/glx_bot_app/releases/download/beta/glx-bot-app-android.apk)
   
-2. IOS
-
-   - [BETA]()
+2. [IOS]()
   
-3. MACOS
-
-   - [BETA]()
+3. [MACOS]()
   
-4. Linux 
-   - [BETA]()
+4. [Linux]()
 
-5. Windows
-   - [BETA]()
-
+5. [Windows]()
+  
 ## Screenshot
 
 
