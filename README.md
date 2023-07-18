@@ -27,4 +27,4 @@ GLX Bot Applikasi untuk menjalankan bot / userbot dari berbagai platform
 
 ## Tutorial
 
-![20230717_125447](https://github.com/azkadev/glx_bot_app/assets/82513502/6b0a89a6-9cb1-45f5-bc2b-310b2ce12e7d)
+[![20230717_125447](https://github.com/azkadev/glx_bot_app/assets/82513502/6b0a89a6-9cb1-45f5-bc2b-310b2ce12e7d)](https://youtu.be/HjgD6ZhSFIA)
