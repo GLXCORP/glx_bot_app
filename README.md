@@ -13,7 +13,7 @@ GLX Bot Applikasi untuk menjalankan bot / userbot dari berbagai platform
 |      IOS      | <img width="50%" height="25%" alt="GLX BOT APP MACOS" src="https://user-images.githubusercontent.com/8056274/126906876-acd3784c-c984-40e0-a7f5-6d2a8194d294. png">  |                                                                                                   |            |
 |     LINUX     |                                                                                                                                                                     |       [DOWNLOAD](https://github.com/GLXCORP/glx_bot_app/releases/download/beta/glx_bot-linux.deb) |            |
 |     MACOS     | <img width="50%" height="25%" alt="GLX BOT APP ANDROID" src="https://user-images.githubusercontent.com/8056274/126906876-acd3784c-c984-40e0-a7f5-6d2a8194d294.png"> |                                                                                                   |            |
-|               |                                                                               WINDOWS                                                                               |                                                                                                   |            |
+|    WINDOWS    |                                                                                                                                                                     |                                                                                                   |            |
 
 
   
