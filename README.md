@@ -1,29 +1,15 @@
-## GLX BOT APP [![GitHub stars](https://img.shields.io/github/stars/glxcorp/glx_bot_app?style=social)](https://github.com/login?return_to=%2Fglxcorp%glx_bot_app) ![GitHub forks](https://img.shields.io/github/forks/glxcorp/glx_bot_app?style=social) 
+## GENERAL BOT APP
 
-
-GLX Bot Applikasi untuk menjalankan bot / userbot dari berbagai platform
+GENERAL Bot Applikasi untuk menjalankan bot / userbot dari berbagai platform
 
 <img width="100%" alt="GLX BOT APP Banner" src="https://github.com/azkadev/glx_bot_app/assets/82513502/6b0a89a6-9cb1-45f5-bc2b-310b2ce12e7d">
   
 ## Download
+   
+   Silahkan Cari sendiri disini ya [GENERAL PUBLIC FILES](https://t.me/GENERAL_PUBLIC_FILES/19) SILAHKAN PILIH Yand ADA #general_bot_app #azkadev_bot_app (bebas pilih mau yang mana yang penting ada kata **_bot_app** di akhir kalimat)
 
-| PLATFORM / OS | STABLE VERSION |                                                                                      BETA VERSION | APP CENTER |
-|:-------------:|:--------------:|--------------------------------------------------------------------------------------------------:|:----------:|
-|    ANDROID    | [PLAY STORE](https://play.google.com/store/apps/details?id=com.glx.glx_bot) | [DOWNLOAD](https://github.com/GLXCORP/glx_bot_app/releases/download/beta/app-release.apk) |            |
-|      IOS      | [APP STORE]()  |                                                                                      [DOWNLOAD]() |            |
-|     LINUX     | [APP STORE]()  |       [DOWNLOAD](https://github.com/GLXCORP/glx_bot_app/releases/download/beta/glx_bot-linux.deb) |            |
-|     MACOS     | [APP STORE]()  |                                                                                      [DOWNLOAD]() |            |
-|    WINDOWS    | [APP STORE]()  |                                                                                      [DOWNLOAD]() |            |
-
-
-  
-## Screenshot
-
-
-|       SIGN IN PAGE        |            SIGN UP PAGE            |                 HOME PAGE |             GUIDE PAGE             |
-|:-------------------------:|:----------------------------------:|--------------------------:|:----------------------------------:|
-| ![](screenshots/home.png) | ![](screenshots/home_telegram.png) | ![](screenshots/home.png) | ![](screenshots/home_telegram.png) |
-
+App ini bisa login **gratis** pakai akun github kalo mau **fitur lebih banyak** login pakai akun ya BIAYA DAFTAR Tergantung masing masing platform / app
+ 
 
 ## Tutorial
 
